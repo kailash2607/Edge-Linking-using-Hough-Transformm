@@ -1,4 +1,6 @@
 # EX-07 EDGE LINKING HOUGH TRANSFORM
+# NAME : KAILASH PRABHU S
+# REG NO  : 212224240068
 ## Aim:
 To write a Python program to detect the lines using Hough Transform.
 
@@ -77,13 +79,17 @@ plt.show()
 
 ### Input image and grayscale image
 
+<img width="815" height="517" alt="image" src="https://github.com/user-attachments/assets/61c0a85d-5939-43ff-be92-1509854f2e34" />
 
 
 ### Canny Edge detector output
 
+<img width="336" height="462" alt="image" src="https://github.com/user-attachments/assets/d845ea5c-5fd7-40ed-b697-c636c0c43539" />
 
 
 ### Display the result of Hough transform
+
+<img width="338" height="438" alt="image" src="https://github.com/user-attachments/assets/bed813bb-f103-4fe0-87fe-71682a58ca70" />
 
 ## Result:
 Thus the program is written with python and OpenCV to detect lines using Hough transform. 
